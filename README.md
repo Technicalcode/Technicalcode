@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Thakur</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Technicalcode/Technicalcode/blob/main/Public%20discord!.jpeg">
+<img align="right" alt="coding" width="400" src="https://github.com/Technicalcode/Technicalcode/blob/main/Vigilante%20Malware%20Blocks%20Pirated%20Software.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalcode&label=Profile%20views&color=0e75b6&style=flat" alt="technicalcode" /> </p>
 
