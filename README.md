@@ -1,4 +1,4 @@
-![log](https://github.com/Technicalcode/Technicalcode/blob/main/Profanity%20May%20Be%20The%20Cause%20Of%20Crypto%20Trading%20Firm%20Wintermute%E2%80%99s%20%24160%20Million%20Hack.jpeg)
+![log](https://github.com/Technicalcode/Technicalcode/blob/main/wallpaperflare.com_wallpaper.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Thakur</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
